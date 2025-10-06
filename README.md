@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Hao Lun</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
