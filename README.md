@@ -31,7 +31,7 @@
   </a>
 </div>
 
-Aspiring software engineer and potential ai researcher. Looking for internships!
+<p> Aspiring software engineer and potential ai researcher. Looking for internships! </p>
 
 ###
 
