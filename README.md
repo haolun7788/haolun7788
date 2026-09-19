@@ -31,6 +31,8 @@
   </a>
 </div>
 
+Aspiring software engineer and potential ai researcher. Looking for internships!
+
 ###
 
 <br clear="both">
