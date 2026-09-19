@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋!</h2>
+<h2 align="left">Hi there, I'm Hao Lun Li 👋!</h2>
 
 ###
 
@@ -25,6 +25,9 @@
   </a>
   <a href="https://www.linkedin.com/in/hao-lun-li/"> 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https//haolun.developer.li">
+    My Website
   </a>
 </div>
 
