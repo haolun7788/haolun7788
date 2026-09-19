@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https//haolun.developer.li">
-    My Website
+    <img src="https://img.shields.io/static/v1?message=Website&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="my website"  />
   </a>
 </div>
 
